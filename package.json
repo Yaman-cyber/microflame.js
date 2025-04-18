@@ -1,0 +1,41 @@
+{
+  "name": "microflame",
+  "version": "1.0.0",
+  "description": "MicroFlame CLI - Scaffold your Node.js app fast",
+  "keywords": [
+    "express",
+    "cli",
+    "scaffolding",
+    "boilerplate",
+    "mvc",
+    "microflame"
+  ],
+  "homepage": "https://github.com/yaman-cyber/microflame.js#readme",
+  "bugs": {
+    "url": "https://github.com/yaman-cyber/microflame.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaman-cyber/microflame.js.git"
+  },
+  "license": "MIT",
+  "author": "Yaman Arab (yamanarab9@gmail.com)",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "microflame": "bin/microflame-cli.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0",
+    "figlet": "^1.8.1",
+    "fs-extra": "^11.3.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,6 @@
+{
+  "port": "PORT",
+  "environment": "ENVIRONMENT",
+  "jwtPrivatekey": "TEMPLATE_JWTPRIVATEKEY",
+  "db": { "protocol": "DB_PROTOCOL", "username": "DB_USERNAME", "password": "DB_PASSWORD", "host": "DB_HOST", "name": "DB_NAME" }
+}
