@@ -144,7 +144,7 @@ This adds a new environment variable called `TEMPLATE_JWTPRIVATEKEY` with the va
 
 ## 📁 Project Code Structure
 
-A detailed explanation of the project architecture, folder structure, and best practices will be added soon. Stay tuned!
+A detailed explanation of the project architecture, folder structure, and best practices.
 
 ➡️ [Code Structure Guide](./docs/code-structure.md)
 
