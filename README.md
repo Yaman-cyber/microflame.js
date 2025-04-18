@@ -140,7 +140,7 @@ Add a new environment variable to `.env.development`, `.env.production`, and the
 microflame add-env TEMPLATE_JWTPRIVATEKEY mySecretKey true
 ```
 
-## This adds a new environment variable called `TEMPLATE_JWTPRIVATEKEY` with the value `mySecretKey` and marks it as required (`true`).
+This adds a new environment variable called `TEMPLATE_JWTPRIVATEKEY` with the value `mySecretKey` and marks it as required (`true`).
 
 ## 📁 Project Code Structure
 
