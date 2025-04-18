@@ -1,0 +1,10 @@
+{
+  "success": 200,
+  "actionRequired": 202,
+  "badRequest": 400,
+  "unAuthorized": 401,
+  "invalidCredential": 403,
+  "paymentRequired": 402,
+  "notFound": 404,
+  "internalServerError": 500
+}

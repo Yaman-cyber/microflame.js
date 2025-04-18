@@ -1,0 +1,7 @@
+node_modules
+public/uploads/*
+public/downloads/*
+package-lock.json
+logs
+*.env
+.env.*
