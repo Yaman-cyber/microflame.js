@@ -164,9 +164,4 @@ MIT License
 
 ## 🧯 Author
 
-Built with care by Yaman-cyber 🛠️
-
-```
-
-
-```
+Built with care by Yaman Arab(Github: Yaman-cyber) 🛠️
