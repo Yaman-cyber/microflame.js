@@ -109,17 +109,15 @@ So the `event/` folder will include all listener of events and the `handlers/` w
 
 ### `logs/`
 
-**Purpose**: All logs files generated from `winston` will be written here.
-
-**Contents**:
-
-- `logger.js` — Central logger utility. Can be customized with Winston, Pino, or plain `console`.
+**Purpose**: All log files generated from `winston` will be written here. for more details on logging check [`winston`](https://www.npmjs.com/package/winston) package.
 
 **Logging Example**:
 
 ```js
-logger.info("App started on port 3000");
-logger.error("Database connection failed", err);
+const winston = require("winston");
+
+winston.info("App started on port 3000");
+winston.error("Database connection failed", err);
 ```
 
 ---
