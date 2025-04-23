@@ -1,7 +1,7 @@
 {
   "name": "microflame",
-  "version": "1.0.8",
-  "description": "MicroFlame CLI - Scaffold your Node.js app fast",
+  "version": "1.0.9",
+  "description": "A minimal and powerful Node.js CLI boilerplate generator for MVC Express applications. MicroFlame leverages Express, Mongoose, and Winston directly, providing built-in scaffolding support to accelerate development.",
   "keywords": [
     "express",
     "cli",
