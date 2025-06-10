@@ -1,10 +1,14 @@
-# 🔥 MicroFlame.js
+# 🔥 MicroFlame.js – Express MVC CLI Generator
 
-MicroFlame.js is a CLI tool that helps you instantly generate MVC-style Express apps with views, routes, controllers, and models. If you're looking for a Node.js scaffolding tool that saves hours of boilerplate setup — this is it.
+[![npm version](https://img.shields.io/npm/v/microflame)](https://www.npmjs.com/package/microflame)
+[![downloads](https://img.shields.io/npm/dt/microflame)](https://www.npmjs.com/package/microflame)
+[![license](https://img.shields.io/npm/l/microflame)](LICENSE)
+
+> **MicroFlame** is a command-line tool (CLI) for generating full-featured **Node.js Express MVC applications** with views, models, routes, and environment setup — all in seconds.
+
+It scaffolds boilerplate code for Express + Mongoose projects using best practices, including folder structure, routing, environment management, and logging. Perfect for quickly starting REST APIs or web apps with a view engine.
 
 ![MicroFlame Logo](./assets/logo.png)
-
-A minimal and powerful Node.js boilerplate generator for MVC-style Express applications. MicroFlame doesn't reinvent the wheel — it uses well-known, battle-tested libraries like **Express**, **Mongoose**, **Winston**, and more — directly and transparently. It also comes with built-in scaffolding support to help you ship faster!
 
 ---
 
@@ -14,6 +18,17 @@ A minimal and powerful Node.js boilerplate generator for MVC-style Express appli
 - 🏗️ Scaffold models, views, controllers, and routes easily
 - 🚀 Initialize a fully structured project in seconds
 - ⚙️ Add environment variables across all environments with one command
+
+---
+
+## 🤔 Why MicroFlame?
+
+Most Node.js boilerplate tools either add too much overhead or are not flexible enough. MicroFlame gives you:
+
+- A clean Express + Mongoose setup
+- CLI scaffolding for MVC architecture
+- Views, routes, models, and environment config
+- A fast way to prototype or build production-ready apps
 
 ---
 
