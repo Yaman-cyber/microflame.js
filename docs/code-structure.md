@@ -32,7 +32,7 @@ const port = config.get("port");
 
 - `messages.json` — Reusable user-facing messages.
 - `events.json` — Reusable event emitters names.
-- `events.json` — Reusable HTTP requests response codes.
+- `responseCodes.json` — Reusable HTTP requests response codes.
 
 ---
 
